@@ -1,0 +1,114 @@
+{
+  "role_pavadini": "KYC/AML specialistas",
+  "organizacijos_kontekstas": {
+    "departamentas": "Atitikties (Compliance) arba finansinių nusikaltimų prevencijos (Financial Crime Compliance) funkcija. Kasdienis darbas glaudžiai siejasi su klientų aptarnavimo, operacijų, rizikos valdymo ir produktų padaliniais.",
+    "ataskaitine_grandine": "Paprastai atsiskaito AML/finansinių nusikaltimų prevencijos vadovui arba atitikties vadovui. Įtartinus atvejus ir reikšmingas kontrolės spragas eskaluoja paskirtam pinigų plovimo prevencijos pareigūnui (MLRO ar lygiavertę funkciją atliekančiam asmeniui).",
+    "tiesioginis_vadovas": "AML/finansinių nusikaltimų prevencijos komandos vadovas arba atitikties vadovas; tiksli grandinė priklauso nuo įstaigos dydžio ir valdymo modelio.",
+    "strategine_reiksme": "Padeda įstaigai suprasti, su kuo ji užmezga dalykinius santykius, nustatyti ir valdyti pinigų plovimo, teroristų finansavimo, sankcijų pažeidimų bei susijusias sukčiavimo rizikas. Veiksmingos patikros mažina reguliacines ir reputacines pasekmes, kartu sudarydamos sąlygas teisėtiems klientams naudotis paslaugomis."
+  },
+  "pagrindinės_atsakomybės": [
+    {
+      "atsakomybe": "Kliento tapatybės ir verslo santykių patikra",
+      "aprasymas": "Atlieka fizinių asmenų tapatybės patikras ir juridinių asmenų, jų atstovų, tikrųjų naudos gavėjų bei nuosavybės ir kontrolės struktūros analizę. Tikrina dokumentus ir duomenis pagal įstaigos patvirtintas procedūras.",
+      "kritiskumas": "aukštas"
+    },
+    {
+      "atsakomybe": "Rizika pagrįstas kliento vertinimas",
+      "aprasymas": "Priskiria klientui rizikos lygį, atsižvelgdamas į kliento tipą, geografiją, paslaugas, numatomą veiklą, nuosavybės struktūrą ir kitus įstaigos rizikos veiksnius. Nustato, ar būtinos sustiprintos patikros priemonės.",
+      "kritiskumas": "aukštas"
+    },
+    {
+      "atsakomybe": "PEP, sankcijų ir neigiamos viešosios informacijos patikros",
+      "aprasymas": "Peržiūri sistemų sugeneruotus sutapimus, atskiria tikrus atitikmenis nuo klaidingų rezultatų, dokumentuoja išvadas ir eskaluoja patvirtintus ar neaiškius atvejus pagal vidaus tvarką.",
+      "kritiskumas": "aukštas"
+    },
+    {
+      "atsakomybe": "Sustiprinta kliento patikra",
+      "aprasymas": "Kai rizika to reikalauja, renka ir vertina papildomą informaciją apie kliento veiklą, lėšų ar turto kilmę, dalykinių santykių tikslą ir numatomą operacijų pobūdį. Nepriima sprendimų už įgaliotus tvirtintojus, jei pagal vidaus tvarką toks sprendimas priklauso vadovui ar MLRO.",
+      "kritiskumas": "aukštas"
+    },
+    {
+      "atsakomybe": "Operacijų stebėsena ir įspėjimų analizė",
+      "aprasymas": "Analizuoja automatinių stebėsenos sistemų įspėjimus ir kliento operacijas, lygina jas su žinomu kliento profiliu, nustato neįprastus požymius ir pagrįstus atvejus perduoda tolesniam tyrimui.",
+      "kritiskumas": "aukštas"
+    },
+    {
+      "atsakomybe": "Įtartinų atvejų eskalavimas ir dokumentavimas",
+      "aprasymas": "Rengia aiškias faktines atvejo santraukas, saugo patikros veiksmų ir sprendimų pagrindimą bei laiku eskaluoja įtarimus pagal nustatytą grandinę. Įtarimų atskleidimui klientui taikomi įstaigos nustatyti konfidencialumo reikalavimai.",
+      "kritiskumas": "aukštas"
+    },
+    {
+      "atsakomybe": "Nuolatinė stebėsena ir periodinė peržiūra",
+      "aprasymas": "Atnaujina kliento duomenis pagal rizikos lygį, reikšmingus įvykius ir vidaus tvarkoje nustatytus terminus. Reaguoja į pasikeitusią nuosavybę, veiklą, rizikos profilį ar patikros rezultatus.",
+      "kritiskumas": "aukštas"
+    },
+    {
+      "atsakomybe": "Kontrolės ir procesų tobulinimas",
+      "aprasymas": "Fiksuoja pasikartojančias proceso problemas, prisideda prie procedūrų, patikros taisyklių ir mokymų tobulinimo, bendradarbiauja su vidaus auditu ir kitomis kontrolės funkcijomis.",
+      "kritiskumas": "vidutinis"
+    }
+  ],
+  "kompetencijos": {
+    "išsilavinimas": [
+      "Aukštasis išsilavinimas teisės, finansų, ekonomikos, kriminologijos ar susijusioje srityje yra privalumas; lygiavertė praktinė patirtis gali būti tinkama.",
+      "Aktualūs AML, sankcijų, finansinių nusikaltimų prevencijos ar atitikties mokymai ir profesiniai sertifikatai yra privalumas."
+    ],
+    "patyrimas": "Patirtis KYC, AML, klientų patikros, operacijų stebėsenos, sankcijų patikros ar finansinių paslaugų operacijų srityje. Vyresnio lygio pareigoms reikalinga sudėtingų atvejų analizės, tyrimų koordinavimo ar procesų priežiūros patirtis.",
+    "technines_kompetencijos": [
+      "AML/KYC rizikos veiksnių, kliento patikros ir sustiprintos patikros principų taikymas.",
+      "PEP, sankcijų ir neigiamos viešosios informacijos rezultatų analizė.",
+      "Kliento lėšų ar turto kilmės dokumentų bei įmonių nuosavybės struktūrų vertinimas.",
+      "Operacijų stebėsenos ir atvejų valdymo sistemų naudojimas.",
+      "Tikslaus, patikrinamo sprendimų pagrindimo ir audito pėdsako rengimas.",
+      "Duomenų apsaugos, informacijos saugumo ir prieigos kontrolės principų laikymasis."
+    ],
+    "minkštos_kompetencijos": [
+      "Atidumas detalėms ir gebėjimas pastebėti neatitikimus.",
+      "Analitinis ir kritinis mąstymas, gebėjimas nepriimti automatinių rezultatų kaip galutinės išvados.",
+      "Aiškus rašytinis ir žodinis bendravimas, ypač perduodant sudėtingus atvejus.",
+      "Nešališkumas, konfidencialumas ir profesinis sprendimų nuoseklumas.",
+      "Gebėjimas prioritetizuoti darbą pagal riziką ir laikytis nustatytų terminų.",
+      "Bendradarbiavimas su verslo ir kontrolės padaliniais, išlaikant nepriklausomą rizikos vertinimą."
+    ]
+  },
+  "atitikties_ir_rizika": {
+    "reguliaciniai_reikalavimai": [
+      "Taikomi ES ir atitinkamos valstybės pinigų plovimo bei teroristų finansavimo prevencijos reikalavimai, nacionaliniai teisės aktai ir priežiūros institucijos nurodymai.",
+      "Taikomi ES ir nacionaliniai finansinių bei ekonominių sankcijų reikalavimai.",
+      "Taikomi asmens duomenų apsaugos reikalavimai, įskaitant BDAR: duomenys turi būti tvarkomi teisėtu pagrindu, tikslo ir duomenų kiekio ribojimo principus atitinkančiu būdu.",
+      "Investicinių ar kitų finansinių paslaugų įstaigai taikomi reikalavimai priklauso nuo jos licencijos, paslaugų, įsisteigimo valstybės ir veiklos geografijos. Įgyvendinant ES AML reformos reikalavimus būtina vadovautis tuo metu taikytinais terminais ir nacionalinėmis procedūromis."
+    ],
+    "atitikties_rizikos": [
+      "Nepakankama kliento ar tikrojo naudos gavėjo patikra gali lemti, kad įstaiga užmegs santykius su nepriimtina ar nepakankamai suprasta rizika.",
+      "Klaidingai atmestas sankcijų ar PEP sutapimas gali lemti nepakankamą kontrolę; klaidingai patvirtintas sutapimas gali nepagrįstai apriboti teisėto kliento prieigą prie paslaugų.",
+      "Neatpažintos įtartinos operacijos, netinkamas eskalavimas ar pavėluotas reagavimas gali sukelti reguliacinių ir baudžiamųjų pasekmių.",
+      "Netikslūs ar nenuoseklūs įrašai apsunkina sprendimų patikrinimą, priežiūrą ir auditą.",
+      "Perteklinis ar nepagrįstas duomenų rinkimas, netinkama prieiga arba nesaugus duomenų tvarkymas gali pažeisti privatumo ir informacijos saugumo reikalavimus.",
+      "Vien greičiu grindžiami veiklos tikslai gali paskatinti paviršutiniškas patikras; veiklos vertinime būtina derinti savalaikiškumą su sprendimų kokybe."
+    ],
+    "duomenu_apsaugos_aspektai": "Tvarkyti tik patikrai ir teisės aktų reikalavimams būtinus duomenis, laikytis prieigos pagal pareigas principo, saugojimo terminų ir įstaigos saugumo procedūrų. Klientų duomenų negalima naudoti nesusijusiems tikslams ar aptarinėti neįgaliotiems asmenims. Įtarimo ar atitikties peržiūros aplinkybės turi būti saugomos konfidencialiai pagal taikytinus reikalavimus.",
+    "konflikto_intereso_rizikos": [
+      "Verslo padalinio spaudimas pagreitinti ar patvirtinti kliento priėmimą neturint pakankamų patikros duomenų.",
+      "Asmeniniai, finansiniai ar ankstesni profesiniai ryšiai su klientu, jo atstovu ar susijusia įmone.",
+      "Nevienodas panašių klientų vertinimas dėl komercinių tikslų ar išankstinių nuostatų.",
+      "Prieiga prie klientų duomenų naudojama asmeniniais ar su pareigomis nesusijusiais tikslais."
+    ]
+  },
+  "veikla_ir_indikatoriai": {
+    "pagrindiniai_KPI": [
+      "Atvejų, užbaigtų pagal nustatytus terminus ir kokybės reikalavimus, dalis.",
+      "Patikrų ir atvejų dokumentavimo kokybė pagal kokybės kontrolės arba imties peržiūros rezultatus.",
+      "Laiku eskaluotų aukštos rizikos ir galimai įtartinų atvejų dalis.",
+      "Periodinių kliento peržiūrų atlikimas pagal rizikai pritaikytą grafiką.",
+      "Pasikartojančių klaidų ir taisomųjų veiksmų skaičiaus tendencijos."
+    ],
+    "vertinimo_kriterijai": [
+      "Ar sprendimai pagrįsti įrodymais, nuoseklūs ir patikrinami.",
+      "Ar specialistas teisingai taiko rizika pagrįstą metodą ir eskalavimo taisykles.",
+      "Ar laikomasi konfidencialumo, duomenų apsaugos ir informacijos saugumo reikalavimų.",
+      "Ar specialistas geba laiku atpažinti proceso spragas ir konstruktyviai bendradarbiauti jas šalinant.",
+      "Ar darbo greitis pasiekiamas nepabloginant patikros kokybės ar klientų traktavimo nuoseklumo."
+    ]
+  },
+  "tolimesniu_uzklausu_kontekstas": "KYC/AML specialistas vykdo kasdienes kliento patikros ir finansinių nusikaltimų prevencijos kontrolės užduotis pagal įstaigos rizikos vertinimą, vidaus procedūras ir taikytinus teisės aktus. Jis renka ir vertina informaciją, analizuoja automatinių sistemų rezultatus, dokumentuoja išvadas ir eskaluoja rizikingus atvejus; galutiniai sprendimai dėl santykių su klientu ar pranešimų kompetentingoms institucijoms priimami pagal įstaigos įgaliojimų ir MLRO atsakomybės tvarką. Tolesnėms užklausoms patikslinti įstaigos jurisdikciją, licenciją, paslaugas, kliento tipus, komandos struktūrą ir specialisto sprendimų įgaliojimus."
+}
