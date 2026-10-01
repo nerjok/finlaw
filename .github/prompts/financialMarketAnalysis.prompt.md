@@ -1,6 +1,8 @@
 ---
 agent: agent
-description: "LegalOps finansų rinkos analizatorius: nustato organizacijos finansų rinką, taikomus finansų teisės institutus ir licencijavimo arba registravimo reikalavimus"
+name: "Financial Market Regulatory Analysis"
+description: "Use when user asks about a company financial market, where it operates, who regulates it, licensing/registration requirements, regulator, jurisdiction, authorization, compliance obligations (e.g., Kraken, exchanges, fintechs). LegalOps finansų rinkos analizatorius."
+argument-hint: "Company name, business activity, jurisdictions (for example: Kraken, crypto exchange, EU and US)"
 ---
 
 # LegalOps: Finansų rinkos ir reguliacinių reikalavimų analizatorius

@@ -1,5 +1,5 @@
 ---
-agent: custom
+agent: agent
 description: GenDI užklausa atitikties pareigūno rolės aprašui generuoti - pagal rolės pavadinimą ir trumpą aprašą sukuria organizacijos kontekste pagrįstą aprašą tolesnėms užklausoms
 ---
 
