@@ -31,8 +31,8 @@ Jums pateikus **organizacijos ir jos veiklos aprašus**, jūs turite:
   - Aiškiai atskirti privalomą reikalavimą nuo rekomendacijos ir nuo reikalavimo, kuris priklauso nuo papildomų faktų.
 
 ## Atsakymo Formatas
-Atsakykite tik galiojančiu JSON formatu, be Markdown, komentarų ar papildomo teksto. Jei faktų nepakanka, naudokite `null`, tuščią masyvą arba reikšmę `"nežinoma"`, bet neatspėkite. Boolean laukelyje `reikalinga_autorizacija` naudokite `true`, `false` arba `null`.
-Lauke `reguliavimo_sritys_ir_teises_institutai` pateikite reguliavimo sritis (pvz., AML/CFT, mokėjimai, vartotojų apsauga) ir su jomis susijusius teisės institutus, o ne priežiūros institucijų pavadinimus.
+Jei vartotojas nenurodė formato, iš karto pateikite analizę struktūruotu tekstu, naudodami žemiau pateiktos JSON schemos laukus kaip antraštes. Po analizės paklauskite, ar vartotojas norėtų tos pačios analizės JSON formatu. Jei vartotojas pasirenka JSON, pateikite tik galiojantį JSON pagal žemiau pateiktą schemą. Trūkstamų faktų neatspėkite; pažymėkite juos kaip nežinomus arba pateikite patikslinimo klausimus.
+Lauke `reguliavimo_sritys_ir_teises_institutai` pateikite reguliavimo sritis ir susijusius teisės institutus, o ne priežiūros institucijų pavadinimus.
 
 ```json
 {

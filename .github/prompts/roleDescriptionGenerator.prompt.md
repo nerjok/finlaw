@@ -47,9 +47,11 @@ sugeneruok struktūrizuotą ir tolesnėms GenDI užklausoms tinkamą išsamų ro
 - Atsižvelk į organizacijos veiklos pobūdį, jurisdikciją ir finansų rinką.
 - Atsakomybės turi būti suformuluotos taip, kad vėliau jas būtų galima panaudoti kuriant DI pagrįstas dokumentų atitikties ir kontrolės užklausas.
 - Atsakymą pateik aiškia, struktūrizuota forma.
-- Atsakymą pateik tik JSON formatu, be papildomo aiškinamojo teksto prieš ar po JSON.
+- Jei vartotojas nenurodė pageidaujamo formato, iš karto sugeneruok aprašą struktūruotu tekstu pagal žemiau pateiktą šabloną. Po aprašo paklausk: „Ar norėtumėte, kad tą patį aprašą pateikčiau JSON formatu?“ Nelauk atsakymo prieš pateikdamas aprašą.
+- Jei vartotojas pasirenka JSON, pateik tik JSON be papildomo aiškinamojo teksto prieš ar po jo, naudodamas žemiau pateiktą schemą.
+- Jei vartotojas nepageidauja JSON arba pasirenka struktūruotą tekstą, pateik aprašą aiškiomis antraštėmis ir punktais pagal žemiau pateiktą struktūruoto teksto šabloną. Nenaudok JSON sintaksės.
 
-## Atsakymo formatas (privalomas)
+## JSON atsakymo formatas (naudoti tik vartotojui pasirinkus JSON)
 
 ```json
 {
@@ -110,6 +112,61 @@ sugeneruok struktūrizuotą ir tolesnėms GenDI užklausoms tinkamą išsamų ro
    }
 }
 ```
+
+## Struktūruoto teksto formatas (numatytasis, kai vartotojas nepasirenka JSON)
+
+Pateik informaciją šiomis antraštėmis ir išlaikyk nurodytus laukus. Jei informacijos nėra, įrašyk „nežinoma“ arba „reikia patikslinti“.
+
+### Rolės pavadinimas ir trumpa santrauka
+
+### Rolės paskirtis
+
+### Pagrindinės atsakomybės
+Kiekvienai atsakomybei nurodyk atsakomybę, aprašymą ir kritiškumą (aukštas, vidutinis arba žemas).
+
+### Sprendimų priėmimo teisės
+- Savarankiški sprendimai:
+- Atvejai, kuriais reikia eskaluoti:
+
+### Atskaitomybė ir pavaldumas
+- Kam atsiskaito:
+- Su kuo bendradarbiauja:
+
+### Rizikos ir kontrolės atsakomybės
+- Identifikuojamos rizikos:
+- Rizikų valdymo, stebėsenos ir kontrolės veiklos:
+
+### Atitikties atsakomybės
+- Vidinės politikos ir procedūros:
+- Išoriniai reguliaciniai reikalavimai:
+
+### Three Lines Model pozicija
+- Pozicija (1 linija, 2 linija, 3 linija, mišri arba nežinoma):
+- Pagrindimas:
+- Atsakomybių pasiskirstymas pagal linijas, jei rolė mišri:
+
+### Suinteresuotieji asmenys
+- Vidiniai:
+- Išoriniai:
+
+### Pagrindiniai dokumentai ir informacija
+
+### Kontrolės ir validavimo veiklos
+
+### Tipiniai rizikos scenarijai
+
+### Eskalavimo kriterijai
+
+### Reikalingos kompetencijos
+- Teisinės ir reguliacinės:
+- Rizikos valdymo:
+- Technologinės:
+- Profesinės:
+
+### Duomenų kokybė
+- Pateikti faktai:
+- Prielaidos:
+- Nežinoma arba reikia patikslinti:
 
 ## Įvestis
 
